@@ -2,7 +2,7 @@
 MUSA capstone in 2022 
 
 ## Question proposed
-In this project,I'm gonna focus on the topic of "Housing-work commuting burden pattern and its inequalty contributory factor in megacities like Boston". 
+In this project, I'm gonna focus on the topic of "Housing-work commuting burden pattern and its inequalty contributory factor in megacities like Boston". 
 
 ## Background:
 Commuting burden (with respect to both time and distance) directly influence on commuters’ quality of life.Especially with the phenomenon of urban sprawl,the living expence, sleep quality and working pressures people have to burden increase a lot more on megacities. Inequalities in commuting burdens exist among people of different economic status across the world, even in areas without widespread racial discrimination and segregation (Zhao, 2015; Roberto, 2008; Sara and Valerie, 2010; Ahmed et al., 2008).
@@ -58,11 +58,11 @@ Leart from existing papers,I can conduct the research with mainly **ridership da
 After I explore the commuting mobility pattern and find out the inequlty district, I could combine the result with other features using GWR or linear regression, trying to find out the influencing factor which determine which part of the city are the ones suffering commuting inequalty most.
 
 ## Use case：
-Hypothetical user journey：
-Possible policy implication:
-
+Identifing district in most need of service construction/
+Be helpful for policy making and transit stop location plan/
+Be helpful in improving the life quality of people suffering from commuting burden.
 
 ## Expected deliverables:
 1.Research report in the format of Rmarkdown.
-2.Dynamic visualization: Animation or video or a dashboard to the commuting pattern result,especially the comparison of the inequalty.
+2.Dynamic visualization: Animation video or a dashboard to the commuting pattern result,especially the comparison of the inequalty of various features.
 
