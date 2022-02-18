@@ -1,4 +1,4 @@
-# YebeiYao    Boston commuting burden inequalty
+# YebeiYao    Chicago commuting burden inequalty
 MUSA capstone in 2022 
 
 ## Question proposed
